@@ -3,7 +3,7 @@ my first website deployment i made with fcc in desn368
 
 **TOOLS USED:**
 * codepen.io
-*GitHub
+* GitHub
   * repositories
   * codespaces
 * Netlify
